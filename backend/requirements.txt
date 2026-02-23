@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+xlrd
+gspread
+google-auth
+google-genai
+anthropic
+python-multipart
+pydantic-settings
+jinja2
+weasyprint
+python-jose[cryptography]
+cachetools
